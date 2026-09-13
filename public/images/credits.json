@@ -1,0 +1,72 @@
+[
+  {
+    "file": "/workspace/scratch/nexora-assets/lighting.jpg",
+    "credit": "Manuel Sardo",
+    "source": "https://unsplash.com/photos/white-desk-lamp-46iThnrEw3g",
+    "image_url": "https://images.unsplash.com/photo-1515695519552-c55987c8847c?fm=jpg&q=75&w=420&h=420&fit=max",
+    "status": 200,
+    "size": [
+      420,
+      280
+    ],
+    "bytes": 11389,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/nexora-assets/furniture.jpg",
+    "credit": "aboodi vesakaran",
+    "source": "https://unsplash.com/photos/a-white-office-chair-sitting-in-front-of-a-window-2VAOhFEkTik",
+    "image_url": "https://images.unsplash.com/photo-1695395860906-9226cb3c4ad2?fm=jpg&q=75&w=420&h=420&fit=max",
+    "status": 200,
+    "size": [
+      420,
+      280
+    ],
+    "bytes": 24434,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/nexora-assets/accessories.jpg",
+    "credit": "Jess Bailey",
+    "source": "https://unsplash.com/photos/desk-accessories-including-glasses-ruler-and-pens-FF7zVTpll78",
+    "image_url": "https://images.unsplash.com/photo-1764044371545-dfd065b01e6f?fm=jpg&q=75&w=420&h=420&fit=max",
+    "status": 200,
+    "size": [
+      420,
+      280
+    ],
+    "bytes": 17698,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/nexora-assets/electronics.jpg",
+    "credit": "Andrey Matveev",
+    "source": "https://unsplash.com/photos/a-pair-of-headphones-on-a-yellow-background-a6WorCr9CR4",
+    "image_url": "https://images.unsplash.com/photo-1684703147716-014da6a31aa3?fm=jpg&q=75&w=420&h=420&fit=max",
+    "status": 200,
+    "size": [
+      420,
+      315
+    ],
+    "bytes": 16174,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/nexora-assets/notebooks.jpg",
+    "credit": "Kelly Sikkema",
+    "source": "https://unsplash.com/photos/notebook-and-writing-supplies-on-wooden-surface-cGGCg7quYn0",
+    "image_url": "https://images.unsplash.com/photo-1743385779392-cab22721fac6?fm=jpg&q=75&w=420",
+    "status": 200,
+    "size": [
+      420,
+      280
+    ],
+    "bytes": 22136,
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  }
+]
